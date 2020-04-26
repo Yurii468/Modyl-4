@@ -169,7 +169,7 @@ h1::after {
   content: '';
   margin: 30px auto 90px;
 }
-h2::after {
+h4::after {
   display: block;
   height: 7px;
   width: 164px;
