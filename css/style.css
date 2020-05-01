@@ -37,7 +37,7 @@ img {
   font-size: 14px;
   margin: 0;
   padding: 0;
-  width: 496px;
+
   float: right;
 
   list-style: none;
@@ -76,6 +76,8 @@ img {
   text-align: center;
   margin: 0px;
   height: 150px;
+  vertical-align: middle;
+  margin-top: 154px;
 }
 .featured {
   list-style: none;
@@ -146,7 +148,7 @@ img {
 .team-list-2:nth-child(3n) {
   margin-right: 0;
 }
-.blog{
+.blog {
   padding: 0;
   margin: 0;
 }
